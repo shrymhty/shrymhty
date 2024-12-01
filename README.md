@@ -15,7 +15,7 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
 <p align="center">
 <a href="mailto:shreya.official93@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyamhty" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreyamhty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyamhty" height="30" width="40" /></a>
-<a href="https://instagram.com/shreya.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreya.io" height="30" width="40" /></a>
+<a href="https://instagram.com/shreya.io" target="blank"><img align="center" src="https://github.com/shrymhty/shrymhty/blob/main/1298747_instagram_brand_logo_social%20media_icon.svg" alt="shreya.io" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Technical Skills  
