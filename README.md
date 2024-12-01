@@ -1,5 +1,7 @@
 # Hi there, I'm Shreya Mohanty 👋
 
+![alt text](https://github.com/shrymhty/shrymhty/blob/[branch]/me.jpg?raw=true)
+
 **📍 Bangalore, Karnataka**
 
 ---
