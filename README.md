@@ -49,7 +49,8 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
     <img src="https://skillicons.dev/icons?i=react,express,nodejs,npm,aws,docker,pytorch,opencv,grafana" />
   </a>
 </p>
-  
+<br>
+<br>
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyoactiv&layout=donut&size_weight=0.5&count_weight=1" alt="GitHub Language Stats">
 </p>
