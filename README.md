@@ -81,7 +81,7 @@ _Feb. 2023 – May 2024_
 
 ---
 
-## 💻 My Stats
+## 📈 My Stats
 
 <table>
   <tr>
@@ -112,16 +112,7 @@ _Feb. 2023 – May 2024_
 
 ---
 
-## 🏆 Achievements  
-
-- **Google Data Analytics Professional Certificate** (May 2024)  
-- Published research in the *Journal of Artificial Intelligence*:  
-  ["A topic modelling approach to optimise study planning"](https://doi.org/10.32604).
+### Feel free to clone or explore my repositories to see more of my work! 😊
 
 ---
 
-Feel free to clone or explore my repositories to see more of my work! 😊
-
----
-
-This README incorporates your resume details and aligns with your GitHub style. Let me know if you'd like further refinements or additional sections!
