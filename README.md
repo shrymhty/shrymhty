@@ -63,9 +63,12 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
 ---
 
 ## 🎓 Education  
-
-**Bachelor in Technology, Computer Science and Engineering**  
-*Kalinga Institute of Industrial Technology (2021 – 2025)*  
+- **Secondary School Certificate, ICSE**  
+  *Vibgyor High, Haralur (2019)*
+- **Higher School Certificate, PUC**
+  *Primus Public School (2021)*
+- **Bachelor in Technology, Computer Science and Engineering**  
+  *Kalinga Institute of Industrial Technology (2021 – 2025)*  
 
 ---
 
