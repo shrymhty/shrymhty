@@ -69,18 +69,6 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
 
 ---
 
-## 💼 Experience  
-
-### Technology Analyst  
-**Morgan Stanley | Bangalore, Karnataka**  
-_July 2024 – Present_  
-
-### Core Member, IoT Domain  
-**IoT Lab, KIIT | Bhubaneshwar, Odisha**  
-_Feb. 2023 – May 2024_  
-
----
-
 ## 📈 My Stats
 
 <table>
