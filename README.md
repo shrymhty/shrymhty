@@ -18,6 +18,8 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
 <a href="https://instagram.com/shreya.io" target="blank"><img align="center" src="https://github.com/shrymhty/shrymhty/blob/main/1298747_instagram_brand_logo_social%20media_icon.svg" alt="shreya.io" height="30" width="40" /></a>
 </p>
 
+### <a href="https://shrymhty.netlify.app">Check out my Portfolio💼</a>
+
 ## 🛠️ Technical Skills  
 
 - **Languages**: Java, C/C++, Python, SQL, JavaScript, HTML/CSS, R  
