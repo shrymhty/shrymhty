@@ -22,7 +22,7 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
 <a href="https://instagram.com/shreya.io" target="blank"><img align="center" src="https://github.com/shrymhty/shrymhty/blob/main/1298747_instagram_brand_logo_social%20media_icon.svg" alt="shreya.io" height="30" width="40" /></a>
 </p>
 
-## Publications
+## Publications 📃
 
 <h3>"Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"</h3>
       <ul>
