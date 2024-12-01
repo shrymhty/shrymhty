@@ -1,6 +1,6 @@
 # Hi there, I'm Shreya Mohanty 👋
 
-**📍 Bangalore, Karnataka **
+**📍 Bangalore, Karnataka**
 
 ---
 
