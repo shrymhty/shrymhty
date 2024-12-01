@@ -23,7 +23,6 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
 <a href="https://instagram.com/shreya.io" target="blank"><img align="center" src="https://github.com/shrymhty/shrymhty/blob/main/1298747_instagram_brand_logo_social%20media_icon.svg" alt="shreya.io" height="30" width="40" /></a>
 </p>
 
----
 
 ## Publications 📃
 
@@ -65,7 +64,6 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
 
 **Bachelor in Technology, Computer Science and Engineering**  
 *Kalinga Institute of Industrial Technology (2021 – 2025)*  
-CGPA: **8.67**
 
 ---
 
@@ -74,12 +72,25 @@ CGPA: **8.67**
 ### Technology Analyst  
 **Morgan Stanley | Bangalore, Karnataka**  
 _July 2024 – Present_  
-- Developed a firmware metrics dashboard leveraging Splunk, Grafana, and Dash for real-time insights and enhanced system reliability.
 
 ### Core Member, IoT Domain  
 **IoT Lab, KIIT | Bhubaneshwar, Odisha**  
 _Feb. 2023 – May 2024_  
-- Worked on IoT projects analyzing environmental data with diverse sensor technologies and Thingspeak.
+
+---
+
+## 💻 My Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rudyoactiv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Rudraneel's GitHub Stats">
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/Rudyoactiv" alt="LeetCode Stats">
+    </td>
+  </tr>
+</table>
 
 ---
 
