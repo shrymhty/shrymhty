@@ -11,6 +11,7 @@ I'm Shreya, a passionate **Software Developer** with a strong foundation in **Co
 
 I am currenty working as a Technology Apprentice at Morgan Stanley.
 
+## Connect with me 📬
 
 ## 🛠️ Technical Skills  
 
