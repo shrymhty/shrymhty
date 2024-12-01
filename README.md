@@ -22,6 +22,15 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
 <a href="https://instagram.com/shreya.io" target="blank"><img align="center" src="https://github.com/shrymhty/shrymhty/blob/main/1298747_instagram_brand_logo_social%20media_icon.svg" alt="shreya.io" height="30" width="40" /></a>
 </p>
 
+## Publications
+
+<h3>"Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"</h3>
+      <ul>
+        <li><strong>Published in:</strong> Journal on Artificial Intelligence, Tech Science Press, Henderson, Nevada, USA</li>
+        <li><strong>Description:</strong> This paper explores the use of machine learning techniques in helping students in their academic preparation by using previous year trends to predict question paper patterns.</li>
+        <li><strong>Tags:</strong> <em>Machine Learning, Artificial Intelligence, Data Analytics, Topic Modelling, Computer Vision</em></li>
+      </ul>
+
 ## 🛠️ Technical Skills  
 
 - **Languages**: Java, C/C++, Python, SQL, JavaScript, HTML/CSS, R  
