@@ -84,10 +84,10 @@ _Feb. 2023 – May 2024_
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rudyoactiv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Rudraneel's GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=shrymhty&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Shreya's GitHub Stats">
     </td>
     <td>
-      <img src="https://leetcard.jacoblin.cool/Rudyoactiv" alt="LeetCode Stats">
+      <img src="https://leetcard.jacoblin.cool/shrymhty" alt="LeetCode Stats">
     </td>
   </tr>
 </table>
