@@ -29,7 +29,7 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
         <li><strong>Published in:</strong> Journal on Artificial Intelligence, Tech Science Press, Henderson, Nevada, USA</li>
         <li><strong>Description:</strong>  This study delves into leveraging machine learning algorithms to analyze past exam data, providing students with actionable insights to enhance their preparation strategies.</li>
         <li><strong>Tags:</strong> <em>Predictive Analytics, Machine Learning, AI in Education, Topic Modelling, Data-Driven Study Tools</em></li>
-        <li><strong>Link:</strong>  <a href="https://www.techscience.com/jai/v6n1/57295">Find out more</a></li>
+        <li><a href="https://www.techscience.com/jai/v6n1/57295">Find out more 👈</a></li>
       </ul>
 
 ## 🛠️ Technical Skills  
