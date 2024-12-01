@@ -1,10 +1,10 @@
 # Hi there, I'm Shreya Mohanty 👋
+
 <div align="center">
   <img src="https://github.com/shrymhty/shrymhty/blob/main/me.jpg?raw=true" alt="Shreya Mohanty" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
-**📍 Bangalore, Karnataka**
 
----
+**📍 Bangalore, Karnataka**
 
 ## 👩‍💻 About Me  
 I'm Shreya, a passionate **Software Developer** with a strong foundation in **Computer Science and Engineering**. My expertise spans **Web Development**, **Data Analysis**, and **Machine Learning**. I thrive on solving complex problems and building impactful solutions.
