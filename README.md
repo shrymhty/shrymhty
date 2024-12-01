@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shreya Mohanty</h1>
-<h3 align="center">I'm Shreya, a passionate Software Developer with a strong foundation in Computer Science and Engineering. My expertise spans Web Development, Data Analysis, and Machine Learning. I thrive on solving complex problems and building impactful solutions.</h3>
+#<h1 align="center">Hi 👋, I'm Shreya Mohanty</h1>
+#<h3 align="center">I'm Shreya, a passionate Software Developer with a strong foundation in Computer Science and Engineering. My expertise spans Web Development, Data Analysis, and Machine Learning. I thrive on solving complex problems and building impactful solutions.</h3>
 
 - 🔭 I’m currently working at **Morgan Stanley**
 
