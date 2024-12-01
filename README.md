@@ -7,7 +7,7 @@
 ### 📍 Bangalore, Karnataka
 
 ## 👩‍💻 About Me  
-I'm Shreya, a passionate **Software Developer** with a strong foundation in **Computer Science and Engineering**. My expertise spans **Web Development**, **Data Analysis**, and **Machine Learning**. I thrive on solving complex problems and building impactful solutions.
+I'm a final year student, a passionate **Software Developer** with a strong foundation in **Computer Science and Engineering**. My expertise spans **Web Development**, **Data Analysis**, and **Machine Learning**. I thrive on solving complex problems and building impactful solutions.
 
 I am currenty working as a Technology Apprentice at Morgan Stanley.
 
