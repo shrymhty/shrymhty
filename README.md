@@ -21,6 +21,7 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
 <a href="https://linkedin.com/in/shreyamhty" target="blank"><img align="center" src="https://github.com/shrymhty/shrymhty/blob/main/5296501_linkedin_network_linkedin%20logo_icon.svg" alt="shreyamhty" height="30" width="40" /></a>
 <a href="https://instagram.com/shreya.io" target="blank"><img align="center" src="https://github.com/shrymhty/shrymhty/blob/main/1298747_instagram_brand_logo_social%20media_icon.svg" alt="shreya.io" height="30" width="40" /></a>
 </p>
+---
 
 ## Publications 📃
 
@@ -31,6 +32,7 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
         <li><strong>Tags:</strong> <em>Predictive Analytics, Machine Learning, AI in Education, Topic Modelling, Data-Driven Study Tools</em></li>
         <li><a href="https://www.techscience.com/jai/v6n1/57295">Find out more 👈</a></li>
       </ul>
+---
 
 ## 🛠️ Technical Skills  
 
