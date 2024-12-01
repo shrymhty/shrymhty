@@ -35,7 +35,13 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
 ## 🛠️ Technical Skills  
 
 - **Languages**:
-  [![My Skills](https://skillicons.dev/icons?i=js,java,python,c,cpp,html,css,wasm)](https://skillicons.dev) 
+  <br>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,c,cpp,sql" />
+  </a>
+</p>
+  
 - **Technologies**: React, Node.JS, Express.JS, AWS, Docker, PyTorch, OpenCV, Grafana, Splunk  
 - **Core Areas**: Web Development, Data Structures and Algorithms, Data Analysis, Visualization, Machine Learning  
 
