@@ -99,23 +99,4 @@ _Feb. 2023 – May 2024_
 
 ---
 
-## 🖥️ Projects  
-
-- **[Personal Portfolio](#)** | _React, JavaScript, HTML, CSS_  
-  - User authentication, dynamic product listings, and shopping cart functionality with Firebase backend.
-
-- **Text Summarisation App** | _Python, Transformers, Flask, AWS_  
-  - Condensed lengthy documents using PEGASUS for accurate summarization.
-
-- **To-do App** | _React, Node.JS, PostgreSQL_  
-  - Full-stack app with RESTful APIs for managing tasks efficiently.
-
-- **Question Paper Analyser** | _Python, Detectron2, Gensim_  
-  - Document segmentation, object detection, and LDA topic modeling for academic optimization.
-
----
-
 ### Feel free to clone or explore my repositories to see more of my work! 😊
-
----
-
