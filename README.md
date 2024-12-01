@@ -16,7 +16,7 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
 
 ---
 
-## Connect with me 📬
+## 📬 Connect with me
 <p align="center">
 <a href="mailto:shreya.official93@gmail.com" target="blank"><img align="center" src="https://github.com/shrymhty/shrymhty/blob/main/email-part-2-svgrepo-com.svg" alt="shreyamhty" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreyamhty" target="blank"><img align="center" src="https://github.com/shrymhty/shrymhty/blob/main/5296501_linkedin_network_linkedin%20logo_icon.svg" alt="shreyamhty" height="30" width="40" /></a>
@@ -24,7 +24,7 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
 </p>
 
 
-## Publications 📃
+## 📃 Publications
 
 <h3>"Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"</h3>
       <ul>
