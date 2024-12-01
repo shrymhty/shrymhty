@@ -27,8 +27,8 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
 <h3>"Enhancing Exam Preparation Through Topic Modelling and Key Topic Identification"</h3>
       <ul>
         <li><strong>Published in:</strong> Journal on Artificial Intelligence, Tech Science Press, Henderson, Nevada, USA</li>
-        <li><strong>Description:</strong> This paper explores the use of machine learning techniques in helping students in their academic preparation by using previous year trends to predict question paper patterns.</li>
-        <li><strong>Tags:</strong> <em>Machine Learning, Artificial Intelligence, Data Analytics, Topic Modelling, Computer Vision</em></li>
+        <li><strong>Description:</strong>  This study delves into leveraging machine learning algorithms to analyze past exam data, providing students with actionable insights to enhance their preparation strategies.</li>
+        <li><strong>Tags:</strong> <em>Predictive Analytics, Machine Learning, AI in Education, Topic Modelling, Data-Driven Study Tools</em></li>
       </ul>
 
 ## 🛠️ Technical Skills  
