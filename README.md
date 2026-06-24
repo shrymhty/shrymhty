@@ -42,7 +42,7 @@ I am currenty working as a Technology Apprentice at Morgan Stanley.
   <br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,sql,html,css,js,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,golang,java,sql,html,css,js,c,cpp" />
   </a>
 </p>
   
